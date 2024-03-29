@@ -2,7 +2,6 @@ title: Crop mapping documentation
 description: A starter template for documenting the crop mapping work
 theme: just-the-docs
 
-baseurl: "/croptypemapping/" # the subpath of your site, e.g. /blog
 url: "https://saralkarki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 

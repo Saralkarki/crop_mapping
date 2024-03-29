@@ -7,7 +7,7 @@ permalink: '/crop-mapping-form'
 
 The crop type survey form was developed to take the crop in the plot, along with the location and polyogonal shape data of the plot. 
 
-<a href="../uploads/survey_form.xlsx" download> Download the Crop type survey form </a>
+<a href="survey_form.xlsx" download> Download the Crop type survey form </a>
 
 ### Plot selection : 
 

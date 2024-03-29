@@ -9,6 +9,6 @@ theme:
 
 The survey form was designed to get plot level data for crops, and the geo-locations. 
 
-![prcess](crop_mapping/uploads/image_screenshots/process.jpg)
+![prcess](/crop_mapping/uploads/image_screenshots/process.jpg)
 
 ---

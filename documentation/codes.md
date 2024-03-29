@@ -193,7 +193,7 @@ map_vis
 
 ```
 
-![map visualization](../uploads/image_screenshots/map_vis.png)
+![map visualization](./uploads/image_screenshots/map_vis.png)
 
 
 

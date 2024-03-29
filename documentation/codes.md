@@ -3,7 +3,7 @@ title: Python codes
 layout: default
 permalink: '/codes'
 ---
-<a href="./Crop_Mapping_data_collection_Monitoring.ipynb" download> Download the Monitoring python code  </a>
+<a href="Crop_Mapping_data_collection_Monitoring.ipynb" download> Download the Monitoring python code  </a>
 
 
 ## Getting data from the form via API

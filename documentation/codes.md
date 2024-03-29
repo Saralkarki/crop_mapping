@@ -3,7 +3,7 @@ title: Python codes
 layout: default
 permalink: '/codes'
 ---
-<a href="../uploads/Crop_Mapping_data_collection_Monitoring.ipynb" download> Download the Monitoring python code  </a>
+<a href="/uploads/Crop_Mapping_data_collection_Monitoring.ipynb" download> Download the Monitoring python code  </a>
 
 
 ## Getting data from the form via API
@@ -71,9 +71,9 @@ df['crop'].value_counts()
 df.groupby(['enumerators','crop'])['crop'].count()
 ```
 
-![enuemrators](./uploads/image_screenshots/enumerators.png)
+![enuemrators](/uploads/image_screenshots/enumerators.png)
 
-![enuemrator_crop](./uploads/image_screenshots/enumerators_crop.png)
+![enuemrator_crop](/uploads/image_screenshots/enumerators_crop.png)
 
 
 
@@ -193,7 +193,7 @@ map_vis
 
 ```
 
-![map visualization](./uploads/image_screenshots/map_vis.png)
+![map visualization](/uploads/image_screenshots/map_vis.png)
 
 
 

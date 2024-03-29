@@ -71,9 +71,9 @@ df['crop'].value_counts()
 df.groupby(['enumerators','crop'])['crop'].count()
 ```
 
-![enuemrators](../uploads/image_screenshots/enumerators.png)
+![enuemrators](./uploads/image_screenshots/enumerators.png)
 
-![enuemrator_crop](../uploads/image_screenshots/enumerators_crop.png)
+![enuemrator_crop](./uploads/image_screenshots/enumerators_crop.png)
 
 
 
